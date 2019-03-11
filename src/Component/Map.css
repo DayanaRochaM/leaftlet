@@ -1,0 +1,26 @@
+#map {
+    position: relative;
+    height: 300px;
+    width: 80%;
+    min-width: 613px;
+    background-color: #cccccc;
+    margin: 40px 0 0 10px;
+    /*border-radius: $border-radius-base;      */
+}
+
+.leaflet-container{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+/*img.leaflet-marker-icon {*/
+    /*!*border-radius: 50px;*!*/
+    /*!*border: solid 2px;*!*/
+    /*background-image: url("../images/marker-icon.png");*/
+/*}*/
+
+/*Marker.leaflet-marker-icon{*/
+    /*background-image: url("../images/marker-icon.png");*/
+/*}*/
+

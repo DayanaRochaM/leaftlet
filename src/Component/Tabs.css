@@ -1,0 +1,23 @@
+.tab-list {
+    padding-left: 0;
+    color: #000000;
+    font-weight: bold;
+    height: 80%;
+}
+
+.tab-list-item {
+    display: inline-block;
+    list-style: none;
+    border: solid #ccc 1px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: -1px;
+    padding: 0.5rem 0.75rem;
+    cursor: pointer;
+
+}
+
+.tab-list-active {
+    background-color: #ccc;
+    cursor: default;
+}
